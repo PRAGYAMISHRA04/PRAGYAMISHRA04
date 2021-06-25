@@ -8,6 +8,6 @@
 ## 🔭 I’m currently working on Titanic - Machine Learning from Disaster https://www.kaggle.com/c/titanic
 ## 🌱 I’m currently learning Deep Learning and Neural Networks
 ## 📫 How to reach me: 
-<img src="{https://www.linkedin.com/in/pragya-mishra-b5b6481ba/}" />  
-<img src="{pragya.mishra.me@gmail.com}"/>
--->
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />  
+https://www.linkedin.com/in/pragya-mishra-b5b6481ba/
+
