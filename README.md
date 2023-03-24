@@ -9,3 +9,4 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />  
 https://www.linkedin.com/in/pragya-mishra-b5b6481ba/
 
+![chitragupta hindi image to text converterimage](https://user-images.githubusercontent.com/54955956/227561083-280b74ee-255b-4971-8715-5767f0be823c.png)
